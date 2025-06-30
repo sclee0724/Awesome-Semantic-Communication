@@ -40,7 +40,7 @@ We hope this compilation can serve as a valuable reference for those developing 
 
 |              Dataset              |                         Brief intro                          |                           Website                            |
 | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|           VIP-LowLight            |  Eight Natural Images Captured in Very Low-Light Conditions  | [link](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset) |
+|              MNIST                | Modified National Institute of Standards and Technology database(handwritten digits)  | [link](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset) |
 |              ReNOIR               | RENOIR - A Dataset for Real Low-Light Image Noise Reduction  | [link]([http://ani.stat.fsu.edu/~abarbu/Renoir.html](http://adrianbarburesearch.blogspot.com/p/renoir-dataset.html)) |
 
 
