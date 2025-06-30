@@ -253,7 +253,3 @@ We hope this compilation can serve as a valuable reference for those developing 
 
 
 ## Reference
-
-- https://zhuanlan.zhihu.com/p/140926754
-- https://github.com/baidut/OpenCE
-- https://github.com/tiandaoxiaowu/image-enhancement-about-Retinex
