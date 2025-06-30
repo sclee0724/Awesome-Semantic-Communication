@@ -1,12 +1,6 @@
-# Awesome Low Light Image Enhancement
+# Awesome Semantic Communication
 
-**This is a resource list for low light image enhancement, including datasets, methods/codes/papers, metrics, blogs and so on.**
-
-**Maintained by:** [Zhihong Zhang](https://github.com/dawnlh)
-
-Looking forward to your sharing! You can come up with your ideas and suggestions in the [issue](https://github.com/dawnlh/low-light-image-enhancement-resources/issues)
-
-
+**This is a resource list for Semantic Communication, including datasets, methods/codes/papers, metrics, blogs and so on.**
 
 ## Introduction
 
