@@ -40,7 +40,7 @@ We hope this compilation can serve as a valuable reference for those developing 
 
 |         Dataset          |                         Brief intro                          |                           Website                            |
 | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| MNIST                    | Modified National Institute of Standards and Technology database (Handwritten Digits)  | [link]([https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset](https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/)) |
+| MNIST                    | Modified National Institute of Standards and Technology database (Handwritten Digits)  | [link]([https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset]) |
 | ReNOIR                   | RENOIR - A Dataset for Real Low-Light Image Noise Reduction  | [link]([http://ani.stat.fsu.edu/~abarbu/Renoir.html](http://adrianbarburesearch.blogspot.com/p/renoir-dataset.html)) |
 
 
