@@ -5,6 +5,7 @@
 ## Introduction
 
 Semantic communication has drawn significant attention in recent years as a transformative approach to wireless communication. Unlike traditional systems that focus on transmitting raw data bits, semantic communication aims to convey the meaning of the data, making it particularly suitable for scenarios such as autonomous driving, smart cities, remote surgery, and human-AI interaction. However, realizing robust semantic communication remains a grand challenge due to issues such as task alignment, dynamic channel conditions, and the need for joint optimization across perception, language, and signal processing.
+
 We hope this compilation can serve as a valuable reference for those developing advanced systems and exploring open challenges in semantic-aware information transmission.
 
 
