@@ -4,8 +4,8 @@
 
 ## Introduction
 
-Low light imaging and low light image enhancement have wild applications in our daily life and different scientific research fields, like night surveillance, automated driving, fluorescence microscopy, high speed imaging and so on. However, there is still a long way to go in dealing with these tasks, considering the great challenges in low photon counts, low SNR, complicated noise models, etc. Here, we collect a list of resources related to low light image enhancement, including datasets, methods/codes/papers, metrics, and so on. We hope this can help to provide some help to the development of new methods and solutions to the low light tasks.
-
+Semantic communication has drawn significant attention in recent years as a transformative approach to wireless communication. Unlike traditional systems that focus on transmitting raw data bits, semantic communication aims to convey the meaning of the data, making it particularly suitable for scenarios such as autonomous driving, smart cities, remote surgery, and human-AI interaction. However, realizing robust semantic communication remains a grand challenge due to issues such as task alignment, dynamic channel conditions, and the need for joint optimization across perception, language, and signal processing.
+We hope this compilation can serve as a valuable reference for those developing advanced systems and exploring open challenges in semantic-aware information transmission.
 
 
 ## Table of Contents
