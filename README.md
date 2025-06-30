@@ -49,7 +49,6 @@ We hope this compilation can serve as a valuable reference for those developing 
 |          LRAICE-Dataset           |   A Learning-to-Rank Approach for Image Color Enhancement    |                              -                               |
 |         The 500px Dataset         |    Exposure: A White-Box Photo Post-Processing Framework     |                              -                               |
 |               DPED                | DSLR-quality photos on mobile devices with deep convolutional networks |          [link](http://people.ee.ethz.ch/~ihnatova)          |
-|              **LOL**              |     Deep Retinex Decomposition for Low-Light Enhancement     |      [link](https://daooshee.github.io/BMVC2018website)      |
 |    VV - most challenging cases    | Busting image enhancement and tone-mapping algorithms: A collection of the most challenging cases;<br />from [Vassilios Vonikakis](https://sites.google.com/site/vonikakis/) | [link](https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement) |
 |             VV - Phos             | A color image database of 15 scenes captured under different illumination conditions;<br />from [Vassilios Vonikakis](https://sites.google.com/site/vonikakis/) |        [link](http://robotics.pme.duth.gr/phos2.html)        |
 |             **SICE**              | A large-scale multi-exposure image dataset, which contains 589 elaborately selected high-resolution multi-exposure sequences with 4,413 images |           [github](https://github.com/csjcai/SICE)           |
