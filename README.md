@@ -42,27 +42,6 @@ We hope this compilation can serve as a valuable reference for those developing 
 | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |           VIP-LowLight            |  Eight Natural Images Captured in Very Low-Light Conditions  | [link](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset) |
 |              ReNOIR               | RENOIR - A Dataset for Real Low-Light Image Noise Reduction  | [link]([http://ani.stat.fsu.edu/~abarbu/Renoir.html](http://adrianbarburesearch.blogspot.com/p/renoir-dataset.html)) |
-|    Raw Image Low-Light Object     |                              -                               |    [link](https://wiki.qut.edu.au/display/cyphy/Datasets)    |
-|              **SID**              | Learning to see in the dark; <br />light level (outdoor scene 0.2 lux - 5 lux; indoor scene: 0.03 lux - 0.3 lux) |  [link](http://vladlen.info/publications/learning-see-dark)  |
-|            **ExDARK**             | Getting to Know Low-light Images with The Exclusively Dark Dataset | [github](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) |
-|          MIT-Adobe FiveK          | Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs;<br />(with ~4% low light images) |      [link](https://data.csail.mit.edu/graphics/fivek)       |
-|          LRAICE-Dataset           |   A Learning-to-Rank Approach for Image Color Enhancement    |                              -                               |
-|         The 500px Dataset         |    Exposure: A White-Box Photo Post-Processing Framework     |                              -                               |
-|               DPED                | DSLR-quality photos on mobile devices with deep convolutional networks |          [link](http://people.ee.ethz.ch/~ihnatova)          |
-|    VV - most challenging cases    | Busting image enhancement and tone-mapping algorithms: A collection of the most challenging cases;<br />from [Vassilios Vonikakis](https://sites.google.com/site/vonikakis/) | [link](https://sites.google.com/site/vonikakis/datasets/challenging-dataset-for-enhancement) |
-|             VV - Phos             | A color image database of 15 scenes captured under different illumination conditions;<br />from [Vassilios Vonikakis](https://sites.google.com/site/vonikakis/) |        [link](http://robotics.pme.duth.gr/phos2.html)        |
-|             **SICE**              | A large-scale multi-exposure image dataset, which contains 589 elaborately selected high-resolution multi-exposure sequences with 4,413 images |           [github](https://github.com/csjcai/SICE)           |
-| The Extended Yale Face Database B | The extended Yale Face Database B contains 16128 images of 28 human subjects under 9 poses and 64 illumination conditions. | [link](http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html) |
-|    the nighttime image dataset    | A dataset which contains source images in bad visibility and their enhanced images processed by different enhancement algorithms |              [link](http://mlg.idm.pku.edu.cn/)              |
-|              VE-LOL               | A large-scale low-light image dataset serving both low/high-level vision with diversified scenes and contents as well as complex degradation in real scenarios, called Vision Enhancement in the LOw-Light condition (VE-LOL). |   [link](https://flyywh.github.io/IJCV2021LowLight_VELOL/)   |
-|           SDSD dataset            | Seeing Dynamic Scene in the Dark: High-Quality Video Dataset with Mechatronic Alignment |       [github](https://github.com/dvlab-research/SDSD)       |
-|                MID                | Matching in the Dark: A Dataset for Matching Image Pairs of Low-light Scenes |    [link](https://wenzhengchina.github.io/projects/mid/)     |
-|       DeepHDRVideo-Dataset        | HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset |  [link](https://guanyingc.github.io/DeepHDRVideo-Dataset/)   |
-|               LLVIP               | LLVIP: A visible-infrared paired dataset for low-light vision |         [link](https://bupt-ai-cz.github.io/LLVIP/)          |
-|             RELLISUR              |  RELLISUR: A Real Low-Light Image Super-Resolution Dataset   |             [link](https://vap.aau.dk/rellisur/)             |
-|               LSRW                | R2RNet: Low-light Image Enhancement via Real-low to Real-normal Network; <br />3170 paired images using the Nikon camera and 2480 paired images using the Huawei mobile phone. |    [github](https://github.com/abcdef2000/R2RNet#dataset)    |
-|                MCR                | Mono-colored raw Paired dataset; <br />a dataset of colored raw and monochrome raw image pairs, captured with the same exposure setting. Each image has a resolution of 1280×1024. Totally 498 different scenes, each scene has 1 corresponding RGB and Monochrome ground truth and 8 different exposure color Raw inputs. | [Google Drive](https://drive.google.com/file/d/1_GWW1P1kjVBMFfN9AuaFq29w-kQ31ncd/view?usp=sharing) \| [Baidu Netdisk](https://pan.baidu.com/s/1b3cmUenebeDT_8HdLGa9dQ?from=init&pwd=22cv) |
-
 
 
 ## Review and Benchmark
