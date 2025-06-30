@@ -41,7 +41,7 @@ We hope this compilation can serve as a valuable reference for those developing 
 |         Dataset          |                         Brief intro                          |                           Website                            |
 | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | MNIST                    | Modified National Institute of Standards and Technology database (Handwritten Digits)  | [link](http://yann.lecun.com/exdb/mnist/) |
-| Cifar-100                | labeled subsets of the 80 million tiny images dataset  | [link](https://www.cs.toronto.edu/~kriz/cifar.html) |
+| CIFAR-100                | labeled subsets of the 80 million tiny images dataset  | [link](https://www.cs.toronto.edu/~kriz/cifar.html) |
 
 
 ## Review and Benchmark
