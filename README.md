@@ -41,7 +41,7 @@ We hope this compilation can serve as a valuable reference for those developing 
 |         Dataset          |                         Brief intro                          |                           Website                            |
 | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | MNIST                    | Modified National Institute of Standards and Technology database (Handwritten Digits)  | [link](http://yann.lecun.com/exdb/mnist/) |
-| ReNOIR                   | RENOIR - A Dataset for Real Low-Light Image Noise Reduction  | [link]([http://ani.stat.fsu.edu/~abarbu/Renoir.html](http://adrianbarburesearch.blogspot.com/p/renoir-dataset.html)) |
+| Cifar-100                | labeled subsets of the 80 million tiny images dataset  | [link](https://www.cs.toronto.edu/~kriz/cifar.html) |
 
 
 ## Review and Benchmark
