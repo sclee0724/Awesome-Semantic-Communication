@@ -28,12 +28,6 @@ We hope this compilation can serve as a valuable reference for those developing 
 
 ## Highlights
 
-:high_brightness: <font color='red'> **News!** </font>
-
-- Our new paper "[A mutually boosting dual sensor computational camera for high quality dark videography](https://linkinghub.elsevier.com/retrieve/pii/S1566253523000222)" based on RGB-NIR fusion have been published on **Infomation fusion**!
-- Papers from **CVPR2022** have been updated!
-- A new review article "Low-Light Image and Video Enhancement Using Deep Learning: A Survey" from **TPAMI** have been added!
-
 
 
 ## Datasets
